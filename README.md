@@ -1,2 +1,3 @@
-# replisite-ai
-New Design. Same Content. Instant AI Magic....REPLISITE AI
+# RepliSite AI
+
+Chat with AI to build React apps instantly, with help of AI Api, Sandbox and Firecrawl.
